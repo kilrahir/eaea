@@ -2,17 +2,17 @@ body {
  background: #FFFFFF;
 }
 h1 {
- color: #fa8f1c;
+ color: #5AE23F;
 }
 .user-menu header h1 {
- color: #fa8f1c;
+ color: #5AE23F;
 }
 h2 {
- color: #fa8f1c;
+ color: #5AE23F;
  background-color: #7a8a94;
 }
 .header-main {
- color: #fa8f1c;
+ color: #5AE23F;
  background: #EDEDED;
 }
 #page-title {
@@ -27,7 +27,7 @@ h2 {
  box-shadow: none;
 }
 .user-menu .nav-item > a {
- color: #fa8f1c;
+ color: #5AE23F;
 }
 .user-menu .nav-item .plugin-ico,
 .user-menu .nav-item .course-ico {
@@ -39,6 +39,6 @@ h2 {
 }
 
 .user-menu header {
- color: #fa8f1c;
+ color: #5AE23F;
  background: #EDEDED ;
 }
